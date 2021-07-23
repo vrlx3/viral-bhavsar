@@ -1,4 +1,4 @@
-const server = express();
+const server = require("express");
 const { PORT = 4000 } = process.env;
 
 server.use("/", express.static(path.join(__dirname, "build")));
