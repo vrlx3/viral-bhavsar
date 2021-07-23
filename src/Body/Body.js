@@ -6,7 +6,7 @@ function Body(props) {
     <div id="body">
       <div id="text">
         <h3>Thank you for visiting my website</h3>
-        <h5>Tech Stacks Used</h5>
+        <h5>Tech Stacks Used for this site</h5>
         Front End{" "}
         <ul>
           <li>React</li>{" "}
