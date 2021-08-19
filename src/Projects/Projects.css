@@ -1,0 +1,19 @@
+#projects {
+  padding: 1vh 1vw 1vh 1vw;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#projects > div {
+  width: 40vw;
+  border: 1px solid blue;
+  border-radius: 10px;
+  padding: 1vh 1vw 1vh 1vw;
+  margin: 1vh 1vw 1vh 1vw;
+}
+
+#projectHeader {
+  padding: 1vh 1vw 1vh 1vw;
+  margin: 1vh 1vw 1vh 1vw;
+}

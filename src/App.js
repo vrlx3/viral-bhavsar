@@ -3,6 +3,7 @@ import { BrowserRouter as Router } from "react-router-dom";
 
 import { Header } from "./Header/Header";
 import { Body } from "./Body/Body";
+import { Projects } from "./Projects/Projects";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <div id="app">
         <Header />
         <Body />
+        <Projects />
       </div>
     </Router>
   );

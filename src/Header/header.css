@@ -1,2 +1,8 @@
 #header {
+  font-size: 30px;
+  color: goldenrod;
+  background-color: blanchedalmond;
+  border: 1px solid blanchedalmond;
+  border-radius: 10px;
+  text-align: center;
 }
