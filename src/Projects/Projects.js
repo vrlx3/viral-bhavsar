@@ -14,8 +14,41 @@ export function Projects(props) {
             An e-commerce app with photos, gallery, cart, user, seller and admin
             views. Enhanced with real time search function to improve user
             experience.
+            <p>
+              <a href="https://www.youtube.com/watch?v=WBS-jkXAgzI">
+                Check Scree Recording Here
+              </a>
+            </p>
           </div>
           <p>Tech Stacks: Node.js, React, Express, PostgreSQL, Axios, Heroku</p>
+        </div>
+
+        <div id="theArtCollector">
+          <h3>
+            <a href="https://jolly-jennings-2c1b94.netlify.app/">
+              The Art Collector
+            </a>
+          </h3>
+          <hr></hr>
+          <div id="projectDescription">
+            A website to showcase artifacts displayed by Harvard Art Museum API
+            <p>Tech Stacks: Node.js, React, AJAX, Netlify</p>
+          </div>
+        </div>
+
+        <div id="laGarage">
+          <h3>
+            <a href="https://lagarage.herokuapp.com/" alt="La Garage">
+              La Garage
+            </a>
+          </h3>
+          <hr></hr>
+          <div id="projectDescription">
+            A mobile optimized demo website for auto garage.
+            <p>
+              Tech Stacks: Node.js, React, Express, PostgreSQL, Axios, Heroku
+            </p>
+          </div>
         </div>
 
         <div id="Lets Go Back To Work">
@@ -55,34 +88,6 @@ export function Projects(props) {
             tasks. App is expected to provide best way to complete a project. As
             my app matures, resources consumed and produced by each task will be
             added in.
-            <p>
-              Tech Stacks: Node.js, React, Express, PostgreSQL, Axios, Heroku
-            </p>
-          </div>
-        </div>
-
-        <div id="theArtCollector">
-          <h3>
-            <a href="https://jolly-jennings-2c1b94.netlify.app/">
-              The Art Collector
-            </a>
-          </h3>
-          <hr></hr>
-          <div id="projectDescription">
-            A website to showcase artifacts displayed by Harvard Art Museum API
-            <p>Tech Stacks: Node.js, React, AJAX, Netlify</p>
-          </div>
-        </div>
-
-        <div id="laGarage">
-          <h3>
-            <a href="https://lagarage.herokuapp.com/" alt="La Garage">
-              La Garage
-            </a>
-          </h3>
-          <hr></hr>
-          <div id="projectDescription">
-            A mobile optimized demo website for auto garage.
             <p>
               Tech Stacks: Node.js, React, Express, PostgreSQL, Axios, Heroku
             </p>
