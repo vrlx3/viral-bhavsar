@@ -23,3 +23,8 @@
 #projects > div > h3 > a {
   text-decoration: none;
 }
+
+.thumbnail {
+  width: 35vw;
+  height: 40vh;
+}

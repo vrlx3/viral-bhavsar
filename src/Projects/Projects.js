@@ -15,9 +15,16 @@ export function Projects(props) {
             views. Enhanced with real time search function to improve user
             experience.
             <p>
-              <a href="https://www.youtube.com/watch?v=WBS-jkXAgzI">
-                Check Screen Recording Here
-              </a>
+              <iframe
+                className="thumbnail"
+                width="560"
+                height="315"
+                src="https://www.youtube.com/embed/WBS-jkXAgzI"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+              ></iframe>
             </p>
           </div>
           <p>Tech Stacks: Node.js, React, Express, PostgreSQL, Axios, Heroku</p>
@@ -32,6 +39,17 @@ export function Projects(props) {
           <hr></hr>
           <div id="projectDescription">
             A website to showcase artifacts displayed by Harvard Art Museum API
+            <p>
+              <a href="https://jolly-jennings-2c1b94.netlify.app/">
+                <img
+                  className="thumbnail"
+                  src="https://res.cloudinary.com/hgzinbxeu/image/upload/v1632239857/TheArtCollector_ofmvtq.jpg"
+                  alt="The Art Collector Thumbnail"
+                  width="560"
+                  height="315"
+                />
+              </a>
+            </p>
             <p>Tech Stacks: Node.js, React, AJAX, Netlify</p>
           </div>
         </div>
