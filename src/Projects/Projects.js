@@ -16,7 +16,7 @@ export function Projects(props) {
             experience.
             <p>
               <a href="https://www.youtube.com/watch?v=WBS-jkXAgzI">
-                Check Scree Recording Here
+                Check Screen Recording Here
               </a>
             </p>
           </div>
